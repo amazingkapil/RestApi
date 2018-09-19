@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: amazing_kapil
+Build-Jdk: 10.0.2
+Implementation-Title: multiverseSpring
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.amazing_kapil.maven
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
